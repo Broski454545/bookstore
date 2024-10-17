@@ -1,0 +1,57 @@
+body {
+    background-image: url(https://us.123rf.com/450wm/alenanv/alenanv2009/alenanv200900012/162956008-a-bookstore-with-a-sign-over-the-entrance-books-in-the-shop-window-on-the-shelves-street-store.jpg?ver=6);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bob {
+    background-color: grey;
+    text-align: center;
+    color: white;
+}
+
+.psa {
+    text-align: center;
+    font-size: 19px;
+    color: black;
+}
+
+.table1 {
+    border-collapse: collapse;
+    width: 400px;
+}
+
+.tr1 {
+    background-color: white;
+}
+
+.h1bob {
+    background: radial-gradient(purple, white, purple);
+    width: 500px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px auto;
+}
+
+.ggg2 {
+    width: 500px;
+    background: radial-gradient(purple, white, purple);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px auto;
+}
+
+ul {
+    list-style: none;
+}
+
+.ggg2>form>table>tr>td>input {
+    width: 450px;
+    background-color: aqua;
+}
+
+.op {
+    width: 490px;
+}
+
+.bggrey {background-color: rgb(39, 37, 37);color:white;text-align:center;}
